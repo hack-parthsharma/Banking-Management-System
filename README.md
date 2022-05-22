@@ -9,3 +9,5 @@ A solo implementation of banking system as a paart of self learning journey.
 5. List of Accounts
 6. Modifying Account
 7. Close an Account
+
+-> NOTE : Data is included in the repository in which all the data are generated randomly.
